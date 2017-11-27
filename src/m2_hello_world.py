@@ -73,11 +73,11 @@ print("Hi, Bri!")
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
-print(12345 * 12345)
+print(3607 * 34227)
 
 ########################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in this project to the left.
 #   Note that this file (m2_hello_world.py) is now displayed in a blue
 #   font color (if the file is highlighted select a different file so yu can
